@@ -8,6 +8,8 @@ public class SetDefaultFocus : MonoBehaviour
     void Start() {
         SetDefualtFocuse();
     }
+
+    int Cube = 1;
     public void SetDefualtFocuse() {
         EventSystem.current.SetSelectedGameObject(defaultFocuse);
     }

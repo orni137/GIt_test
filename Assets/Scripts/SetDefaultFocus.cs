@@ -11,6 +11,8 @@ public class SetDefaultFocus : MonoBehaviour
         SetDefualtFocuse();
     }
 
+    int fromTheRoot03 = 14;
+
     int fromTheRoot01 = 4;
 
     public void SetDefualtFocuse() {

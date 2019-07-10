@@ -5,6 +5,8 @@ public class SetDefaultFocus : MonoBehaviour
 {
     public GameObject defaultFocuse;
 
+    int fromTheRoot02 = 7;
+
     void Start() {
         SetDefualtFocuse();
     }

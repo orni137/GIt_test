@@ -11,6 +11,7 @@ public class SetDefaultFocus : MonoBehaviour
 
     int Cube = 1;
     int Somthing = 0;
+    int Sphere02 = 3;
     public void SetDefualtFocuse() {
         EventSystem.current.SetSelectedGameObject(defaultFocuse);
     }
